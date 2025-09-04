@@ -1,6 +1,6 @@
-# projeto-squad-betaAstroNotes
 
 Uma aplicação detalhada para anotações rápidas, com sincronização na nuvem e tema inspirado no espaço.
+
 
 ✨ Funcionalidades
 
